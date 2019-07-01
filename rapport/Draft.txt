@@ -6,7 +6,7 @@ Many big names in the fianancial markets nowadays are working on joining the new
 
 This race for the fianancial e-market created a huge market gap since these startegies turned out to be fruitful for the pioneers and made tons of money and others want to join the croud, in fact every one wants to get there, be the best and do it as fast as possible which is not that easy, because the process of making such websites is not as easy and takes alot of time.
 
-And here comes the role of MINOTORE which main goal is to walk it's clients threw the digitalisation of their comapanies offering security, felxibility and innovation, with alredy built generic mechanisms and a revolutionary content management system CMS that makes building these websites fast, easy and extermely custom.
+And here comes the role of MINOTORE which main goal is to walk it's clients through the digitalisation of their comapanies offering security, felxibility and innovation, with alredy built generic mechanisms and a revolutionary content management system CMS that makes building these websites fast, easy and extermely custom.
 
 
 In this Report we will walk through major parts of this project and how it was implemented.
@@ -31,3 +31,20 @@ present Isahres and Lyxor ETF
 // users identification
 // global use case 
 
+
+
+
+
+
+plan:
+
+Intro genral
+
+chapter I:
+1-chapter one Intro 
+
+2-presentation of the hosting company and project
+    2.1-presentation of minitore and its services
+        2.1.1-minotore `DONE`
+        2.1.2-minotore services `DONE` 
+    2.2-presentation of the project `DOING`

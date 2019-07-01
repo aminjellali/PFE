@@ -1,0 +1,63 @@
+Pour être durable, la croissance très rapide d’Opportune Consulting se devait
+ d’être accompagnée
+par le déploiement et le développement de plusieurs solutions CRM 
+et SI / SIRH personnalisées
+aux process et aux besoins de l’entreprise. Après avoir identifié ces 
+besoins avec mon encadrante
+métier, Madame Raïna LEBDIRI, Présidente d’Opportune Consulting, j’ai 
+eu le privilège de
+travailler sur des projets comme la personnalisation du CRM HubSpot et
+ l’aide au développement
+de fonctionnalités supplémentaires (via l’API du CRM).
+4
+Après une initiation aux processus métier de l’entreprise, nous avons 
+établi une check-list des
+fonctionnalités minimum attendues du CRM, nous avons choisi et configuré 
+le CRM principal puis
+nous avons procédé à la formation des membres de l'équipe. Cette solution, 
+basée sur un CRM en
+ligne (solution cloud, non hébergée), se distingue par une interface très 
+intuitive, une visualisation
+facile des différents processus métier, un coût très faible ainsi qu'une 
+intégration étroite avec
+Google G-Suite, la suite de collaboration et email utilisée par l'entreprise.
+Cela dit, certaines fonctionnalités critiques manquaient au CRM, ce qui 
+présentait un obstacle
+majeur pour son adoption. Par exemple, seules des sauvegardes manuelles 
+et partielles étaient
+permises. Nous avons lancé un projet web pour combler ces lacunes en 
+exploitant l'API REST du
+CRM. Ce projet, réalisé avec Symfony 2, a été confié à une équipe de 
+deux consultantsdéveloppeurs (salariés de Opportune Consulting) que 
+j’ai eu le plaisir de piloter.
+J'ai ainsi effectué un travail d’apprenti Product Owner : explications 
+des fonctionnalités
+attendues, suivi du projet, évolution des user stories et autres artéfacts 
+en fonction des besoins
+dynamiques de l'entreprise, mais aussi un travail de développeur PHP, notamment
+our corriger
+certains bugs, assurer l'intégration continue du projet, mais aussi pour 
+tester la solution, en
+effectuant les recettes – ou tests d'acceptation – dans des conditions 
+réelles et avec un grand volume
+de données. Ce projet a abouti avec succès et le CRM a été utilisé au 
+quotidien par l’équipe
+commerciale. Il a aussi été une occasion pour nous de monter en compétence 
+en Symfony.
+Outre cette partie technique, j'ai aussi participé à l'effort commercial 
+de l'entreprise, notamment
+via une veille concurrentielle pour déterminer les relations commerciales 
+entre les entreprises
+concurrentes et leurs clients pour avoir une meilleure visibilité du marché. 
+Ces informations
+permettent d'être en position de force vis-à-vis des clients et concurrents, 
+dans une approche de
+marketing ciblé / exclusif. Ce projet a été réalisé conjointement avec une 
+collègue et sous la
+supervision directe de notre hiérarchie.
+5
+Pour mieux me consacrer à mes différentes tâches commerciales et techniques, 
+j’ai convenu avec
+mes encadrants d'effectuer ce projet de solution de Marketing Automation sur 
+mon propre temps,
+en dehors des horaires de stage.

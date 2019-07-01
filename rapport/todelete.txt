@@ -1,0 +1,61 @@
+CHAPITRE I : Contexte du projet 2
+1. Présentation de l’organisme d’accueil et du stage 3
+1.1. Présentation de Opportune Consulting 3
+1.2. Présentation du stage 3
+2. Contexte et processus publicitaire classique 5
+2.1. Contexte 5
+2.2. Processus publicitaire classique 5
+3. Problématique et solution proposée 6
+3.1. Problématique 6
+3.2. Aperçu rapide des solutions existantes 6
+3.3. Solution proposée 7
+3.4. Clients potentiels 8
+4. Méthodologie de développement 9
+5. Product backlog 10
+CHAPITRE II : Etat de l’Art 13
+1. Introduction à la publicité en ligne 14
+1.1. Introduction au web marketing 14
+1.2. Publicité payante – notions de base 16
+1.3. Publicité pour les boutiques en ligne et l’e-commerce 19
+2. Introduction au Marketing Automation 21
+2.1. Principe du Marketing Automation 21
+2.2. Introduction au remarketing 22
+2.3. Formats standards d’export de produits e-commerce 23
+2.4. Points faibles des solutions offertes par les grands éditeurs 23
+CHAPITRE III : Analyse et Conception 25
+1. Spécifications fonctionnelles 26
+1.1. Identification des acteurs 26
+1.2. Diagramme des cas d’utilisation global 27
+1.3. Diagrammes des cas d’utilisation détaillés 28
+1.4. Description textuelle des cas d’utilisation 29
+1.5. Diagramme de séquence pour le cas d’utilisation « importer un catalogue » 33
+1.6. Diagramme de séquence pour les cas d’utilisation « associer un compte Facebook
+Ads» 35
+2. Spécifications non fonctionnelles 36
+3. Conception et architecture 37
+3.1. Architecture 37
+3.2. Itération 1 : partie back-end - modèle objet et services métier 39
+3.3. Itération 2 : partie back-end - controllers, portail web et API 43
+3.4. Itération 3 : partie front-end 46
+3.5. Itération 4 : solution B.I. 49
+CHAPITRE IV – Réalisation et Tests 55
+1. Diagramme de déploiement de la solution 56
+2. Réalisation de l’application back-end Symfony 3.3 56
+2.1. Réalisation du portail d’administration 57
+2.2. Réalisation de l’API REST 60
+2.3. Outils et modules utilisés 60
+2.4. Tests unitaires et systèmes définis dans la partie Back-End 62
+3. Réalisation de l’application front-end ReactJS 63
+3.1. Interface utilisateur 63
+3.2. Gestion d’état de l’application mono-page 65
+3.2.1. Redux, store et flux unidirectionnel 66
+3.2.2. Réducteurs et composition d’état 68
+3.2.3. Actions synchrones 69
+3.2.4. Actions synchrones et « thunks » 69
+3.3. Tests d’acceptation de la partie Front-End 70
+3.4. Processus ETL 71
+3.5. Rapports Power B.I. 71
+3.6. Outils et modules utilisés 75
+3.7. Tests de performance de la Partie B.I. 77
+4. Bilan du projet 77
+Conclusion Générale 79
