@@ -42,9 +42,42 @@ Intro genral
 
 chapter I:
 1-chapter one Intro 
-
 2-presentation of the hosting company and project
     2.1-presentation of minitore and its services
         2.1.1-minotore `DONE`
         2.1.2-minotore services `DONE` 
     2.2-presentation of the project `DOING`
+        2.1-problematic
+        2.1-minotore-widgets
+        2.2-minotore-framework
+        2.3-adopted method and methodologie
+3-conclusion.
+
+chapter II:
+1-chapter two Intro.
+2-Financial theories.
+    2.1-definitions.
+        2.1.1-Derivatives
+        2.1.2-Delta One derivatives (ETF)
+        2.1.3-Protfolio management
+3-conclusion.
+
+chapter III:state of the art
+1-intro
+2-considered solutions
+    2.1-Ishares (comparator)
+    2.2-justETF https://www.justetf.com/uk/find-etf.html?groupField=index&assetClass=class-commodities&tab=overview (comparator)
+    2.3-ETF : https://www.etf.com/etfanalytics/my-watchlist
+    2.4-etfdb https://etfdb.com/tool/etf-comparison/IVV-SPY/ (comparator)
+    2.5-https://www.etfrc.com/funds/mywatchlist.php
+    2.6-https://www.etfreplay.com/charts.aspx --- https://www.etfreplay.com/tools.aspx ---
+
+chapter IV:Analysis and sepecifications.
+    1-productAPI
+        1.1-comparator widget
+    2-watchlistAPI
+        2.1-watchlist widget
+
+
+chapter V conception
+Arch
